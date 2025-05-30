@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": { "min_inclusive": 8, "max_inclusive": 15 },
+    "description": [
+      { "text": "Quark: Kuro Shibas and Friends", "color": "#9A5CC6" },
+      { "text": "\nby villainous-j / v1.0 / 1.18.2-1.20.1", "color": "#21497B" }
+    ]
+  }
+}
