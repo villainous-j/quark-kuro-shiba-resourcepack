@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="datapack/pack.png" width="128" height="128" style="image-rendering: pixelated"><br/>
+  <img src="resourcepack/pack.png" width="128" height="128" style="image-rendering: pixelated"><br/>
   Quark: Kuro Shibas and Friends
 </h1>
 
